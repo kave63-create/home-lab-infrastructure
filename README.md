@@ -17,5 +17,9 @@
 - Disabled password authentication (PasswordAuthentication no)
 ## Day 4
 - Opened HTTP (80) and HTTPS (443) ports on firewall
-- Registered free domain via Duck DNS (behzad-homelab.duckdns.org)
-## Clone Repository for Github
+- Registered free domain via Duck DNS (behzad-homelab.duckdns.org
+## Day 5
+- Installed Git on server, configured user identity
+- Cloned repository via git clone
+- Practiced add/commit/push cycle with a test file
+- Learned branch concept (branch/checkout)
