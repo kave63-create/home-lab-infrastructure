@@ -15,3 +15,6 @@
 - Copied public key to server's authorized_keys
 - Verified key-based login works
 - Disabled password authentication (PasswordAuthentication no)
+## Day 4
+- Opened HTTP (80) and HTTPS (443) ports on firewall
+- Registered free domain via Duck DNS (behzad-homelab.duckdns.org)
