@@ -18,3 +18,4 @@
 ## Day 4
 - Opened HTTP (80) and HTTPS (443) ports on firewall
 - Registered free domain via Duck DNS (behzad-homelab.duckdns.org)
+## Clone Repository fro Github
